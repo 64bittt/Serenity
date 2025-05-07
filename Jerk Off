@@ -1,7 +1,3 @@
-    local humanoid = speaker.Character:FindFirstChildWhichIsA("Humanoid")
-    local backpack = speaker:FindFirstChildWhichIsA("Backpack")
-    if not humanoid or not backpack then return end
-
     local tool = Instance.new("Tool")
     tool.Name = "Jerk Off"
     tool.ToolTip = "in the stripped club. straight up \"jorking it\" . and by \"it\" , haha, well. let's justr say. My peanits."
